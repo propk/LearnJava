@@ -1,0 +1,30 @@
+JAVA
+
+BASICS
+1. Currently java 11 has LTE support
+2. Java 8 mostly used in companies
+3. Yet to migrate to java 11
+
+1. main class named after file name
+2. main function inside main class is 'public static void'
+3. Package will create folder structure for source file, 'dot' will create sub folder
+
+VARIABLES
+
+4. Typecasting required for 'short' and 'byte' and 'float', not for 'int' or 'long' or 'double'
+5. Double recommended always over float - more precise
+
+6. Java supports 2Byte 'char'
+7. write unicode characters using eg: '\u0000'
+
+8. JAVA has 8 Primitive types - inbuilt in java
+    byte, short, int, long,
+    char, boolean, float double
+
+9. One more common almost primitive for JAVA
+    String, actually a class
+
+OPERATORS
+
+10. Same as Cpp (including shorthand operators)
+11. Not allowed integer in conditional statement ONLY Boolean
